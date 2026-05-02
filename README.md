@@ -1,6 +1,6 @@
 # Hi, I'm Kanika 
 
-**18 · Self-taught developer · Najafgarh, India**  
+**18 · Self-taught developer · New Delhi, India**  
 On a mission to understand AI from the ground up — and eventually contribute 
 to building AI that is genuinely aligned with human values.
 
